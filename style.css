@@ -1,0 +1,93 @@
+.nav {
+      line-height: 24px;
+}
+
+div li {
+    display: inline-block;
+    padding-right: 10px;
+    font-size: 13px;
+    color: #000;
+    font-family: Arial;
+    }
+
+div ul {
+    text-align:right;
+    }
+    
+li img {
+    height: 30px;
+    vertical-align: middle;
+    opacity: 0.75;
+    }
+    
+a:link {
+    text-decoration: none;
+    color: #6a6a6a;
+    }
+
+a:hover {
+    color: #6a6a6a;
+    text-decoration: underline;
+    }
+    
+a:visited {
+    color: #6a6a6a;
+    }
+    
+#Log_in {
+    color: #fff;
+    background-color:#4387fd;
+    border: 1px solid #4387fd;
+    font-weight: bold;
+    outline: medium none;
+    line-height: 28px;
+    border-radius: 2px;
+    padding: 0 12px;
+    }
+    
+#logo {
+   margin: 175px auto 0;
+   width: 245px;
+   
+    }
+    
+#google_logo {
+    width: 245px;
+    }
+
+input[type="text"] {
+    height: 40px;
+    width: 484px;
+    }
+
+#search {
+    text-align: center;
+    margin: 0 auto;
+    width: 484px;
+    }
+    
+input[type="submit"] {
+    height: 40px;
+    }
+
+.footer {
+    position: fixed;
+    display:inline-block;
+    background-color: #f2f2f2;
+    border: 1px solid #e4e4e4;
+    width:101%;
+    bottom: 0;
+    font-family: Arial;
+    font-size: 13px;
+    margin-left: -10px;
+    }
+    
+#l_footer {
+    float: left;
+    }
+    
+#r_footer {
+    float: right;
+    margin-right: 40px;
+    }
+    
